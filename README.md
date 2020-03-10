@@ -55,24 +55,3 @@ npm run test:unit
 
 #### Mock API
 http://private-0e4345-d2phap.apiary-mock.com/
-# VueJs_TodoList_Master
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
-# VueJs_TodoListMaster
